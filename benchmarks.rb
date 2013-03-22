@@ -5,7 +5,7 @@ require 'ruby-prof'
 require 'memcache'
 require 'pp'
 
-
+#comment added
 #require 'grit'
 require 'lib/grit'
 
@@ -127,3 +127,4 @@ end
 main()
 
 ##pp Grit::GitRuby.cache_client.stats 
+#test line
